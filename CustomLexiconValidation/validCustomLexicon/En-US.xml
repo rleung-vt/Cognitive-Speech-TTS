@@ -8,4 +8,8 @@
     <grapheme>Hello</grapheme>
     <phoneme>hɛ.loˈ</phoneme>
   </lexeme>
+   <lexeme>
+    <grapheme>WTF</grapheme>
+    <alias>What the fuck</alias>
+  </lexeme>
 </lexicon>
