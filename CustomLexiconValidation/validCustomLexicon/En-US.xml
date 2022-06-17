@@ -4,4 +4,8 @@
     <grapheme>tomatoes</grapheme>
     <phoneme>təˈmɑːtoʊz</phoneme>
   </lexeme>
+   <lexeme>
+    <grapheme>TBH</grapheme>
+    <alias>to be honest</alias>
+  </lexeme>
 </lexicon>
